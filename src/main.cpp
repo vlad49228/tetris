@@ -2,6 +2,10 @@
 #include "map.cpp"
 #include "logic.cpp"
 #include <raylib.h>
+
+int w = 800;
+int h = 800;
+
 int main(){
     InitWindow(w, h, "Tetris");
     Field field;

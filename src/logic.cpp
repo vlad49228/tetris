@@ -4,6 +4,9 @@
 struct vecBlock{
     int type, posx, posy;
     Texture2D texture;
+
+    vecBlock(int type, int posx, int posy, Texture texture)
+        : type(type), posx(posx), posy(posy), texture(texture) {}
 };
 class Block{
     public:
