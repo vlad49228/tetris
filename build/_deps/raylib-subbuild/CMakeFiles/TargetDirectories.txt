@@ -1,0 +1,3 @@
+/home/alexei/programing_project/tetris/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate.dir
+/home/alexei/programing_project/tetris/build/_deps/raylib-subbuild/CMakeFiles/edit_cache.dir
+/home/alexei/programing_project/tetris/build/_deps/raylib-subbuild/CMakeFiles/rebuild_cache.dir
